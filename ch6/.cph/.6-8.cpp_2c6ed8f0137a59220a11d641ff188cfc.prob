@@ -1,0 +1,1 @@
+{"name":"Local: 6-8","url":"c:\\Users\\88697\\Desktop\\NCPC\\AP325\\ch6\\6-8.cpp","tests":[{"id":1700555398846,"input":"ATATCTTAACTGG\nCGCGGATCATAA","output":"43"},{"id":1700555443533,"input":"AAAACTGAGGG\nGGCTATT","output":"21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\88697\\Desktop\\NCPC\\AP325\\ch6\\6-8.cpp","group":"local","local":true}

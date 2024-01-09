@@ -1,0 +1,1 @@
+{"name":"Local: 4-1","url":"c:\\Users\\88697\\Desktop\\NCPC\\AP325\\ch4\\4-1.cpp","tests":[{"id":1700070927753,"input":"3\n21\n50\n123","output":"3\n1\n7"},{"id":1700070936170,"input":"3\n0\n123\n6","output":"0\n7\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\88697\\Desktop\\NCPC\\AP325\\ch4\\4-1.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3-6","url":"c:\\Users\\88697\\Desktop\\NCPC\\AP325\\ch3\\3-6.cpp","tests":[{"id":1699896170584,"input":"6 140\n10 30 50 70 100 125\n30 15 55 10 55 25","output":"4\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\88697\\Desktop\\NCPC\\AP325\\ch3\\3-6.cpp","group":"local","local":true}
